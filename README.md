@@ -40,6 +40,10 @@ Two Terminal States: G: The goal state & H: A hole state. Five Transition states
 
 ## POLICY IMPROVEMENT FUNCTION
 ```
+Developed By:P.Siva Naga Nithin
+Reg.No:212221240037
+```
+```
 def policy_improvement(V, P, gamma=0.9):
     # Initialize a matrix to store action values for each state-action pair
     Q = np.zeros((len(P), len(P[0])), dtype=np.float64)
