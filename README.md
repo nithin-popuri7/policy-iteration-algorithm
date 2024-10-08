@@ -89,6 +89,8 @@ def policy_iteration(P, gamma=0.9, theta=1e-10):
 
 ![image](https://github.com/user-attachments/assets/e7907074-793d-4c9d-a871-ddb2d4a11e6b)
 
+![image](https://github.com/user-attachments/assets/a2c0b8ed-866e-4bca-b14d-fc78b2c7b40a)
+
 
 ## Optimal Policy with Gamma = 0.90
 ![image](https://github.com/user-attachments/assets/33ad39af-445f-47ce-8bb1-0a4de3192958)
